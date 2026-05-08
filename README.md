@@ -1,4 +1,4 @@
-#  Brazilian Stocks Financial Analysis - PETR4 (Petrobras)
+#  Brazilian Stocks Financial Analysis - VALE3 (Vale)
 
 **Educational project for financial analysis using Python, yfinance, and pandas.**
 
